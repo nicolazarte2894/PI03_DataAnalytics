@@ -51,7 +51,7 @@ Principalmente se tiene en cuenta 3 objetivos de análisis que considero son con
 
 ### **4) Conclusiones**
 
-Se realiza levanta un contenedor de docker a través de un Dockerfile que contiene los servicios y dependencias necesarias junto con las instrucciones para llevar la aplicación al entorno de Docker. Se construyen las imagenes y el contenedor a través de las siguientes líneas de código
+Este proyecto me permitió llevar más allá el pensamiento analítico y con pensamiento subjetivo para aportar valor.
 
 ## **STACK TECNOLÓGICO**
 
